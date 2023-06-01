@@ -7,7 +7,7 @@ Players will embark on an exciting adventure as they control the game's protagon
 
 The game features smooth controls, dynamic camera angles, and captivating level designs that increase in difficulty as players progress. Players must overcome various challenges, including avoiding rolling barrels, navigating platforms and ladders, and timing their movements strategically to reach the top. As an unexpected twist, there is a hidden element that can attack the player when least expected, adding an element of surprise and challenge.
 
-With its modern 3D gameplay and retro arcade aesthetics, The Reign of the Barrel Dragon offers a unique take on the classic arcade experience. Whether you are a fan of Donkey Kong or enjoy challenging platformer games, this Unity-powered game promises hours of thrilling and strategic gameplay as players strive to reach the top and pass through the shiny door to victory.
+With its modern 3D gameplay and retro arcade aesthetics, The Reign of the Barrel Dragon offers a unique take on the classic arcade experience. Whether you are a fan of Donkey Kong or enjoy challenging platformer games, this Unity-powered game of thrilling and strategic gameplay as players strive to reach the top and pass through the shiny door to victory.
 
 Steps for Creating The Reign of the Barrel Dragon Game:
 
